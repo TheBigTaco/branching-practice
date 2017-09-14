@@ -1,3 +1,7 @@
 #ferrisWheel, #babyRollerCoaster, #rollerCoaster, #merryGoRound {
-  display: none;
+
+}
+
+.highlight {
+  background-color: yellow;
 }
